@@ -10,6 +10,8 @@ _This repo contains project scoping, MVP concepts, and accompanying analytical d
 ![sample_mta_data](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/sample_mta_data.png)<br/><br/>
 ###### **NYC Hotspots Geographic**
 ![nyc_hotspots_geographic](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/nyc_hotspots_geographic.png)<br/><br/>
+###### **Sample NYC Hotspot Data (Select Data Fields)**
+![sample_nyc_hotspot_data](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/sample_nyc_hotspot_data.png)<br/><br/>
 
 * **Tool/Technology Requirements:** This project will require ingestion of the MTA turnstyle data (in the form of numerous CSVs) into a relational database table via Python; the NYC OpenData Wi-Fi data set is available in the form of CSV, and will be imported into a database table leveraging SQLite. The two data tables will be joined and refined in SQL before exporting to Python for exploratory data analysis leveraging Pandas and visualization utilizing Matplotlib and/or Seaborn (MS Excel may be used for non-computational visualization).     
 * **Objective(s):** A minimum viable product resulting from this analysis will seek to identify areas of low Wi-Fi hotspot density relative to heavy commuter traffic.  
