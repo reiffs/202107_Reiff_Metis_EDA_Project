@@ -6,7 +6,7 @@
 * **Preliminary visualization:** The figures below depict the highest and lowest traffic zip codes for MTA commuters aggregated for the latest three months (Apr, May, Jun, Jul '21) and late summer/fall for '18 and '19 (Jul, Aug, Sept). The three highest volume zip codes for commuter traffic in this window are the Chelsea, Tribeca, and Downtown Brooklyn neighborhoods. The three lowest volume zip codes for commuter traffic in this window are Harlem, Belmont/The Bronx, and Melrose/The Bronx. 
 
 ###### **Highest and lowest traffic MTA zones (by zipcode)**
-![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/traffic_by_zip.png)
+![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/mta_volume_zips.png)
 
 ###### **Highest and lowest density zip codes for Wi-Fi hotspots**
 ![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/hotspot_dens_zips.png)
