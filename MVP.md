@@ -9,4 +9,4 @@
 ![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/traffic_by_zip.png)
 
 ###### **Highest and lowest density zip codes for Wi-Fi hotspots**
-![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/traffic_by_zip.png)
+![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/hotspot_dens_zips.png)
