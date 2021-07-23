@@ -7,7 +7,7 @@
 * **Preliminary conclusions:** At first blush, this suggests there could be opportunity to deploy Wi-Fi hotspots in zip codes similar to **10001** and **10007** as they have some of the highest commuter traffic without a commensurate rank in Wi-Fi hotspot density. 
 
 ###### **Highest and lowest traffic MTA zones (by zipcode)**
-![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/mta_volume_zips.png)
+![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/graphics/high_and_low_volume_zips_traffic.svg)
 
 ###### **Highest and lowest density zip codes for Wi-Fi hotspots**
-![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/hotspot_dens_zips.png)
+![high_and_low_volume_zips](https://github.com/reiffs/202107_Reiff_Metis_EDA_Project/blob/main/graphics/high_and_low_volume_zips_hotspots.svg)
